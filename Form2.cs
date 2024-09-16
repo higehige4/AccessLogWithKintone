@@ -111,5 +111,10 @@ namespace WindowsFormsApp3
 
             this.DialogResult = DialogResult.OK;
         }
+
+        private void listBox1_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
